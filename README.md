@@ -5,7 +5,7 @@
 </h1>
 
 ## 📋 Sobre
-Botão animado desenvolvido de uma forma simples e explicativa para um [tutorial no YouTube](https://youtu.be/tSSQUf-WT_c).
+Botão animado desenvolvido de uma forma simples e explicativa para um [tutorial no YouTube](https://ik.imagekit.io/lw777v3z7zq/botao-gif_B9fEf3iqYB.gif).
 
 ---
 
