@@ -16,4 +16,4 @@ Botão animado desenvolvido de uma forma simples e explicativa para um [tutorial
 - JavaScript
 
 ---
-Desenvolvido 😃 por Vincius Rocha Schiffler"# Botao-animado-que-rola-pagina" 
+Desenvolvido 😃 por Vincius Rocha Schiffler"
